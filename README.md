@@ -37,8 +37,6 @@ Traditional exam monitoring relies heavily on human proctors, who are subject to
 |------------------|-----------------|
 | ![Cheating](https://github.com/user-attachments/assets/b6445a6b-9dfa-4db2-b109-2c7d3c4a2d7c) | ![Normal](https://github.com/user-attachments/assets/42dd0be9-641c-485f-b017-659c7d1227bc) |
 
-> *(Make sure these image links are working—otherwise upload the images to your repo and use raw GitHub URLs.)*
-
 ---
 
 ## 📁 Full Project Files
