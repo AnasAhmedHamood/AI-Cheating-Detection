@@ -65,6 +65,12 @@ I deeply appreciate **Dr. Atta** and the project evaluation committee for their 
 
 ---
 
+## 🏛️ Institution
+
+This project was developed as part of the final year graduation requirement at the  
+**College of Engineering and Information Technology – Ajman University**,  
+Department of Information Technology (Networking & Security).
+
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
